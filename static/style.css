@@ -2,7 +2,6 @@ body {
     font-family: Helvetica;
     color: white;
     background-color: black;
-    font-size: 95;
-    text-align: right;
-    padding-top: 1em;
+    font-size: 24;
+    text-align: left;
 }
